@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+h1{
+    margin: 20px;
+}
+.flow{
+    display: flex;
+    padding: 20px 10px;
+    align-items: center;
+    justify-content: center;
+}
+.flowEl{
+    padding: 40px;   
+}
+button{ 
+    background-color:  rgb(33, 59, 207);
+    border-radius: 10px;
+    width: 60px;
+    height: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+  
+}
+ol{
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+
+img{
+    margin-left: 30px;
+}
+
+h2{
+    margin-bottom: 10px;
+}
